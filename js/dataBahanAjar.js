@@ -32,7 +32,7 @@ var dataBahanAjar = [
     namaBarang: "Mikrobiologi Dasar",
     jenisBarang: "BMP",
     edisi: "2",
-    stok: 165,
+    stok: 50,
     cover: "img/mikrobiologi.jpg"
   },
   {
@@ -41,7 +41,7 @@ var dataBahanAjar = [
     namaBarang: "Perkembangan Anak Usia Dini",
     jenisBarang: "BMP",
     edisi: "4",
-    stok: 204,
+    stok: 0,
     cover: "img/paud_perkembangan.jpeg"
   }
 ];
